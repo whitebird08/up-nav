@@ -88,8 +88,6 @@ h2.c4d-pagename-text{
 
 	width: 100vw;
 	height: 430px; 
-	/*box-shadow: -19px -12px 300px -34px rgba(0,0,0,0.96);*/
-	/*position: relative;*/
 
 }
 h1.hero-text{
@@ -171,14 +169,11 @@ div:hover > .mob-menu-sub {
 }
 
 .pagenav-WWD, .pagenav-WTL, .pagenav-CWHU, .pagenav-WTH{
-	/*vertical-align:bottom*/
 	width: 70px;
 	height: 70px;
 	background: #E24D54;
 	border: 1px solid white;
 	border-radius: 70px;
-	/*padding:0px 0px 40px 0px;*/
-	/*margin: 0 4 0px 0 -50px;*/
 	color:white;
 	font-size: 16px;
 	font-weight: lighter;
